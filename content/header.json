@@ -28,7 +28,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/spells-a-marca?Spells",
+      "/frascos?Frascos",
+      "/kits?Kits"
+    ],
     "random": 9,
     "full_width": true
   },
