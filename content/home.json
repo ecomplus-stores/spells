@@ -1,5 +1,5 @@
 {
-  "meta_title": "",
+  "meta_title": "Spells - Produtos de Limpeza Mágicos ",
   "meta_description": "",
   "sections": [
     {
@@ -25,23 +25,39 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "page-title",
+      "title": "Um toque de Mágica na sua vida!",
+      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
+    },
+    {
+      "page": 1,
+      "title": "Frascos que rendem 5 litros- veja aqui ",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "javascript:;",
+      "limit": 12,
+      "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
+      "sort": "views"
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "",
-      "headless": false,
+      "shuffle": false,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
+      "sort": "views",
+      "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
+      "link": "javascript:;"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "sales"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
