@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -8,16 +12,16 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
       "type": "brand-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "views"
     },
     {
-      "type": "document-description",
+      "type": "info-bar",
       "enabled": true
     }
   ]
