@@ -25,6 +25,10 @@
       ]
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "page-title",
       "title": "Um toque de Mágica na sua vida!",
       "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
@@ -54,10 +58,6 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     }
   ]
 }
