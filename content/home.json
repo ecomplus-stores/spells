@@ -39,20 +39,21 @@
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "javascript:;",
+      "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
       "sort": "views"
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
       "page": 1,
-      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "views",
       "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
-      "link": "javascript:;"
+      "shuffle": false,
+      "headless": true,
+      "type": "collection-shelf",
+      "link": "https://loja.spells.com.br/kits",
+      "limit": 12,
+      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
+      "sort": "views"
     },
     {
       "type": "dynamic-showcase",
