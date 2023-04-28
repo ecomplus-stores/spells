@@ -8,12 +8,20 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Minha Conta",
+        "link": "https://www.loja.spells.com.br/app/#/account/"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Meus Pedidos",
+        "link": "https://loja.spells.com.br/app/#/account/orders"
+      },
+      {
+        "title": "Como Comprar",
+        "link": "https://loja.spells.com.br/pages/faq"
+      },
+      {
+        "title": "Atacado",
+        "link": "https://loja.spells.com.br/pages/contato"
       }
     ],
     "phone_wpp": true,
@@ -22,11 +30,11 @@
   "categories_list": {
     "featured": [],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "centralized_logo": false,
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
-  "alphabetical_order_submenu": false,
-  "full_width_submenu": false
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
