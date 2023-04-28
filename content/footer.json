@@ -51,6 +51,18 @@
     {
       "src": "/img/uploads/pag.png",
       "alt": "meios de pagamento"
+    },
+    {
+      "src": "/img/uploads/maistempo-0.png",
+      "alt": "Qualidade de Vida"
+    },
+    {
+      "src": "/img/uploads/eureciclo-0.png",
+      "alt": "Somos parceiros do Eu Reciclo"
+    },
+    {
+      "src": "/img/uploads/sustentavel-0.png",
+      "alt": "Sustentabilidade é Vida!"
     }
   ],
   "payment_methods": {
