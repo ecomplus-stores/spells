@@ -1,22 +1,25 @@
 {
-  "store_id": 51378,
-  "name": "spells",
   "domain": "spells-loja.netlify.app",
-  "short_name": "spells",
-  "description": "spells",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#253e8e",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "minty",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-spells-mini.png",
+  "name": "Spells - Produtos de Limpeza Mágicos",
+  "short_name": "Spells - Produtos de Limpeza Mágicos",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "font_family": "_",
+  "favicon": "/img/uploads/spells-favi.1.png",
+  "icons_font": "feather-icons",
+  "country_code": "BR",
+  "secondary_color": "#1b9ad7",
+  "icon": "/img/uploads/spells-app.jpg",
+  "store_id": 51378,
+  "description": "Compre online produtos de limpeza ecológicos. \nLeve um toque de mágica para sua casa, praticidade , economia e um perfume único. \nEnvio para Todo Brasil. \nVarejo e Atacado\nSomos parceiros do Eu Reciclo, por um mundo mais sustentável.",
+  "large_icon": "/img/uploads/spells-app.jpg"
 }
