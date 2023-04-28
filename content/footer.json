@@ -5,16 +5,39 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Mais Informações",
+    "list": [
+      {
+        "text": "A Mágica da Limpeza",
+        "url": ""
+      },
+      {
+        "text": "Spells - A Empresa"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Formas de Pagamento"
+      },
+      {
+        "text": "Formas de Envio"
+      },
+      {
+        "text": "Política de Privacidade"
+      },
+      {
+        "text": "Trocas e Devoluções"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Nossos Contatos",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -22,18 +45,22 @@
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/ssl.png",
+      "alt": "Loja Segura e Protegida"
+    },
+    {
+      "src": "/img/uploads/pag.png",
+      "alt": "meios de pagamento"
     }
   ],
   "payment_methods": {
-    "pix": true,
-    "visa": true,
-    "mastercard": true,
-    "elo": true,
-    "amex": true,
-    "hipercard": true,
-    "boleto": true
+    "pix": false,
+    "visa": false,
+    "mastercard": false,
+    "elo": false,
+    "amex": false,
+    "hipercard": false,
+    "boleto": false
   },
   "credits": ""
 }
