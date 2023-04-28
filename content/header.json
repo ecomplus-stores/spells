@@ -30,9 +30,14 @@
   "categories_list": {
     "featured": [
       "/spells-a-marca?Spells",
+      "/detergente-spells?Detergente",
+      "/desengordurante-spells?Desengordurante",
+      "/desinfetante-spells?Desinfetante",
+      "/limpa-piso-spells?Limpa Piso",
+      "/limpa-vidros-spells?Limpa Vidros",
+      "/passa-roupas-spells?Passa Roupas",
       "/frascos?Frascos",
-      "/kits?Kits",
-      "/multiuso-spells?Multiuso"
+      "/kits?Kits"
     ],
     "random": 9,
     "full_width": true
