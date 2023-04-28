@@ -31,7 +31,8 @@
     "featured": [
       "/spells-a-marca?Spells",
       "/frascos?Frascos",
-      "/kits?Kits"
+      "/kits?Kits",
+      "/multiuso-spells?Multiuso"
     ],
     "random": 9,
     "full_width": true
