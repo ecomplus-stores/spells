@@ -1,6 +1,23 @@
 {
   "title": "Sobre nós",
-  "meta_title": "Sobre nós",
-  "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "Sobre nós- Spells - Produtos de Limpeza Mágicos",
+  "meta_description": "Spells - Produtos de Limpeza Mágicos.Compre Online - A magia da limpeza começa aqui.",
+  "body": "![Spells - Compre Online - A magia da limpeza começa aqui.](/img/uploads/logo-spells-mini.png \"Spells - Produtos de Limpeza Mágicos\")\n\n## Um toque de Mágica na sua vida!\n\n##### \nRápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!\n\nA magia da limpeza começa aqui.\n\n\nA Spells possui **7 frascos** mágicos que **rendem 5 litros** cada frasco de 250ml.\n\nCada frasco é para diluição em 5 litros de água no seu frasco personalizado e reutilizável. A contribuição para o meio ambiente é só uma de nossas vantagens! \n\nAs fórmulas possuem ingredientes com alto poder de limpeza que remove a sujeira com facilidade e sem causar danos a superfície. \n\nÉ como mágica!\n\nConheça nossos produtos\n\n![Spells - Produtos de Limpeza Mágicos](/img/uploads/lay_e-com_spells_1080p-03-1.png \"Spells - Produtos de Limpeza Mágicos\")\n\n\n\nA fórmula mágica para otimizar seu dia.\nA Spells tem a magia certa para sua rotina em casa!\n\n***Sensação de leveza e dever cumprido com os nossos produtos;***\n\n***Fragrâncias incríveis, que perfumam o ambiente;***\n\n***Altamente eficientes. Limpam mais, com menos esforço;***\n\n***Ultra concentrados: frascos contendo 250ml, para serem diluídos em 5 litros de água ou mais;***\n\n***Envio para Todo Brasil.***\n\n***Ocupam bem menos espaço em sua lavanderia ou despensa;***\n\n***P﻿rático para levar em viagens e passeios.***\n\n***Produtos amigos do planeta. Menos descarte de plástico no meio ambiente.***\n\n![Frete para Todo Brasil](/img/uploads/lay_landing_spells_1080p_package_img-entrega-1.png \"Entrega rápida e segura\")\n\nSimples, prático e eficiente.\n\n![Simples, prático e eficiente.](/img/uploads/simples-pratico-e-eficiente..png \"Simples, prático e eficiente.\")\n\nNossos contatos:\n\n[financeiro@spells.com.br](mailto:financeiro@spells.com.br) ou Whatsapp: [(11) 93027-0924](https://web.whatsapp.com/send?phone=%2B5511930270924)",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
