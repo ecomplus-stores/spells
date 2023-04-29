@@ -3,28 +3,6 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/headphone.webp"
-        },
-        {
-          "start": "2023-04-29T06:32:27.877Z",
-          "end": "",
-          "img": "/img/uploads/lay_e-com_spells_1080p-03-1.png",
-          "alt": "",
-          "mobile_img": "/img/uploads/lay_e-com_spells_1080p-03-1.png"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
