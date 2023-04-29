@@ -34,6 +34,10 @@
       "sort": "slug"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://loja.spells.com.br/spells-a-marca\">Confira todos os Produtos de Limpeza Mágicos</a></h4"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "sales"
