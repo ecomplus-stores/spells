@@ -1,6 +1,27 @@
 {
   "title": "Contato",
-  "meta_title": "Contato",
-  "meta_description": "Contato",
-  "body": "### Lorem ipsum dolor sit amet"
+  "meta_title": "A Mágica da Limpeza - Spells - Produtos de Limpeza Mágicos",
+  "meta_description": "Spells - Produtos de Limpeza Mágicos",
+  "body": "![Spells - Produtos de Limpeza Mágicos](/img/uploads/lay_landing_spells_1080p_package_icon-qeum-somos-1.png \"Spells - Produtos de Limpeza Mágicos\")\n\nSpells - Produtos de Limpeza Mágicos\n\nCompre Online - A magia da limpeza começa aqui.\n\nNossos contatos:\n\n[financeiro@spells.com.br](mailto:financeiro@spells.com.br) ou Whatsapp: [(11) 93027-0924](https://web.whatsapp.com/send?phone=%2B5511930270924)\n\nPara Atacado: compra mínima R$230,00\nForma de pagamento: PIX , boleto ou  cartão em até 3x sem juros\nFrete para Atacado - a calcular no momento do pedido somente via Whatsapp\nou Retirada no local com agendamento ZN/SP, o processo de venda é finalizado por Whatsapp: (11) 93027-0924",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "custom-html",
+      "html": "<center><p class=\"footer__social\"><a href=\"https://www.facebook.com/spellsbrazil\" target=\"_blank\" rel=\"noopener\" aria-label=\"facebook\" style=\"color: #3b5998\"><i class=\"i-facebook\"></i> </a><a href=\"https://www.instagram.com/spellsbrazil\" target=\"_blank\" rel=\"noopener\" aria-label=\"instagram\" style=\"color: #e1306c\"><i class=\"i-instagram\"></i></a></p>\n</center>\n"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
