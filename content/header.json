@@ -42,7 +42,7 @@
     "random": 9,
     "full_width": true
   },
-  "centralized_logo": true,
+  "centralized_logo": false,
   "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": true,
