@@ -2,5 +2,27 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "Envio para Todo Brasil .\n\nEnvio em até 2 dias úteis após comprovação de pagamento.\n\nFicou com algum dúvida fale conosco pelo whatsapp\n\nNossos contatos:\n\n[financeiro@spells.com.br](mailto:financeiro@spells.com.br) ou Whatsapp: [(11) 93027-0924](https://web.whatsapp.com/send?phone=%2B5511930270924)",
+  "sections": [
+    {
+      "type": "page-title"
+    },
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
