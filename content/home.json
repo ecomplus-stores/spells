@@ -48,7 +48,7 @@
       "page": 1,
       "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
       "shuffle": false,
-      "headless": true,
+      "headless": false,
       "type": "collection-shelf",
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
