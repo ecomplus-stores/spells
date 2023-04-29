@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Frete Grátis para Estado de SP nas compras a partir de R$100 ",
-    "link": "/promotion",
+    "link": "https://loja.spells.com.br/pages/entrega",
     "background": "#4b2cae",
     "color": "#ffffff"
   },
@@ -46,5 +46,5 @@
   "desktop_megamenu": false,
   "search_input": true,
   "alphabetical_order_submenu": true,
-  "full_width_submenu": true
+  "full_width_submenu": false
 }
