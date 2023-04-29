@@ -4,30 +4,40 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Mais Informações",
     "list": [
       {
         "text": "A Mágica da Limpeza",
-        "url": ""
+        "url": "https://loja.spells.com.br/pages/contato"
       },
       {
-        "text": "Spells - A Empresa"
+        "text": "Spells - A Empresa",
+        "url": "https://loja.spells.com.br/sobre-nos"
       },
       {
-        "text": "Como Comprar"
+        "text": "Como Comprar",
+        "url": "https://loja.spells.com.br/pages/faq"
       },
       {
-        "text": "Formas de Pagamento"
+        "text": "Formas de Pagamento",
+        "url": "https://loja.spells.com.br/pages/pagamentos"
       },
       {
-        "text": "Formas de Envio"
+        "text": "Formas de Envio",
+        "url": "https://loja.spells.com.br/pages/entrega"
       },
       {
-        "text": "Política de Privacidade"
+        "text": "Segurança e Privacidade",
+        "url": "https://loja.spells.com.br/pages/privacidade"
       },
       {
-        "text": "Trocas e Devoluções"
+        "text": "Trocas e Devoluções",
+        "url": "https://loja.spells.com.br/pages/faq"
+      },
+      {
+        "text": "Atacado",
+        "url": "https://loja.spells.com.br/pages/atacado"
       }
     ]
   },
