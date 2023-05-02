@@ -2,12 +2,14 @@
   "shipping": {
     "show": true,
     "text": "Entregamos para todo o Brasil",
-    "title": "Envio Rápido e Seguro"
+    "title": "Envio Rápido e Seguro",
+    "link": "https://loja.spells.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "text": "",
-    "title": "Aceitamos PIX  "
+    "title": "Aceitamos PIX  ",
+    "link": "https://loja.spells.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
