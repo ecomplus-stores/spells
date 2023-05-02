@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros no cartão de crédito",
+    "text": "",
     "title": "Aceitamos PIX  "
   },
   "exchange": {
@@ -16,6 +16,7 @@
   "promo": {
     "show": true,
     "text": " nas compras a partir de R$149,90",
-    "title": "FRETE GRÁTIS para Estado de SP"
+    "title": "FRETE GRÁTIS para Estado de SP",
+    "link": "https://loja.spells.com.br/pages/entrega"
   }
 }
