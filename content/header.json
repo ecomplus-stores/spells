@@ -37,7 +37,8 @@
       "/passa-roupas-spells?Passa Roupas",
       "/multiuso-spells?Multiuso",
       "/frascos?Frascos",
-      "/kits?Kits"
+      "/kits?Kits",
+      "/frasco-reutilizavel-spells?Reutilizável"
     ],
     "random": 11,
     "full_width": true
