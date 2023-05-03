@@ -35,9 +35,9 @@
       "/limpa-piso-spells?Limpa Piso",
       "/limpa-vidros-spells?Limpa Vidros",
       "/passa-roupas-spells?Passa Roupas",
+      "/multiuso-spells?Multiuso",
       "/frascos?Frascos",
-      "/kits?Kits",
-      "/multiuso-spells?Multiuso"
+      "/kits?Kits"
     ],
     "random": 11,
     "full_width": true
