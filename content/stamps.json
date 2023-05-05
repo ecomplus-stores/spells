@@ -1,20 +1,3 @@
 {
-  "stamps_list": [
-    {
-      "img": "/img/uploads/ssl.png",
-      "id": "Loja Segura e Protegida"
-    },
-    {
-      "img": "/img/uploads/eureciclo-0.png",
-      "id": "Eu Reciclo"
-    },
-    {
-      "img": "/img/uploads/maistempo-0.png",
-      "id": "Qualidade de Vida"
-    },
-    {
-      "img": "/img/uploads/sustentavel-0.png",
-      "id": "Sustentabilidade é Vida"
-    }
-  ]
+  "stamps_list": []
 }
