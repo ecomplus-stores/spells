@@ -27,6 +27,14 @@
       "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Os mais pedidos do mês"
+    },
+    {
       "page": 1,
       "title": "Frascos que rendem 5 litros- veja aqui ",
       "shuffle": true,
