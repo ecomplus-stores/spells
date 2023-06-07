@@ -85,6 +85,17 @@
     },
     {
       "page": 1,
+      "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://loja.spells.com.br/kits",
+      "limit": 12,
+      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
+      "sort": "news"
+    },
+    {
+      "page": 1,
       "title": "Frascos que rendem 5 litros- veja aqui ",
       "shuffle": true,
       "headless": false,
@@ -93,17 +104,6 @@
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
       "sort": "views"
-    },
-    {
-      "page": 1,
-      "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
-      "shuffle": false,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://loja.spells.com.br/kits",
-      "limit": 12,
-      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "slug"
     },
     {
       "type": "custom-html",
