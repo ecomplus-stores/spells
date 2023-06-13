@@ -67,7 +67,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "news"
+      "sort": "news",
+      "headless": true
     },
     {
       "type": "collection-shelf",
