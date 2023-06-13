@@ -54,6 +54,15 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://loja.spells.com.br/spells-a-marca\">Ganhe 10% de desconto em sua primeira compra - use o cupom:primeiracompra</a></h4>"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": false,
+      "sort": "news"
+    },
+    {
       "type": "page-title",
       "title": "Um toque de Mágica na sua vida!",
       "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
@@ -63,7 +72,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "sales",
       "title": "Os mais pedidos do mês"
     },
     {
@@ -100,7 +109,24 @@
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
       "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "news"
+      "sort": "sales"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__1mais-economia.webp"
+        },
+        {
+          "img": "/img/uploads/_2perfumesexclusivos.webp"
+        },
+        {
+          "img": "/img/uploads/__3-ultraconcentrados.webp"
+        },
+        {
+          "img": "/img/uploads/__4-leveza-e-eficiencia.webp"
+        }
+      ]
     },
     {
       "page": 1,
@@ -111,16 +137,7 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "views"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://loja.spells.com.br/spells-a-marca\">Ganhe 10% de desconto em sua primeira compra - use o cupom:primeiracompra</a></h4>"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": false,
-      "sort": "news"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
