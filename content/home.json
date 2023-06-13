@@ -54,18 +54,20 @@
       "enabled": true
     },
     {
+      "type": "page-title",
+      "title": "Um toque de Mágica na sua vida!",
+      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
+    },
+    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://loja.spells.com.br/spells-a-marca\">Ganhe 10% de desconto em sua primeira compra - use o cupom:primeiracompra</a></h4>"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": false,
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "sort": "news"
-    },
-    {
-      "type": "page-title",
-      "title": "Um toque de Mágica na sua vida!",
-      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
     },
     {
       "type": "collection-shelf",
