@@ -54,21 +54,15 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__niver3anos.webp",
+      "mobile_img": "/img/uploads/__mobile1.webp",
+      "link": "https://loja.spells.com.br/spells-a-marca"
+    },
+    {
       "type": "page-title",
       "title": "Um toque de Mágica na sua vida!",
       "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
-    },
-    {
-      "type": "custom-html",
-      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://loja.spells.com.br/spells-a-marca\">Ganhe 10% de desconto em sua primeira compra - use o cupom:primeiracompra</a></h4>"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "headless": true
     },
     {
       "type": "collection-shelf",
@@ -79,31 +73,6 @@
       "title": "Os mais pedidos do mês"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2023-05-25T00:17:10.831Z",
-          "end": "",
-          "img": "/img/uploads/agua-de-passar.png",
-          "link": "https://loja.spells.com.br/passa-roupas-spells"
-        },
-        {
-          "start": "2023-05-25T00:17:24.853Z",
-          "end": "",
-          "img": "/img/uploads/desinfentante.png",
-          "link": "https://loja.spells.com.br/desinfetante-spells"
-        },
-        {
-          "start": "2023-05-25T00:17:47.197Z",
-          "end": "",
-          "img": "/img/uploads/multiuso.png",
-          "link": "https://loja.spells.com.br/multiuso-spells"
-        }
-      ]
-    },
-    {
       "page": 1,
       "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
       "shuffle": false,
@@ -112,7 +81,7 @@
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
       "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -140,7 +109,7 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "banners-grid",
