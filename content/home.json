@@ -50,10 +50,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/__niver3anos.webp",
       "mobile_img": "/img/uploads/__mobile1.webp",
@@ -124,6 +120,10 @@
           "img": "/img/uploads/__7-entregarapidaesegura.webp"
         }
       ]
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     }
   ]
 }
