@@ -3,6 +3,25 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__niver3anos.webp",
+      "mobile_img": "/img/uploads/__mobile1.webp",
+      "link": "https://loja.spells.com.br/spells-a-marca"
+    },
+    {
+      "type": "page-title",
+      "title": "Um toque de Mágica na sua vida!",
+      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales",
+      "title": "Os mais pedidos do mês"
+    },
+    {
       "type": "banner-slider",
       "autoplay": 6000,
       "full_width": true,
@@ -48,25 +67,6 @@
           "alt": "Trio para deixar sua cozinha brilhando com Spells, vem ver "
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__niver3anos.webp",
-      "mobile_img": "/img/uploads/__mobile1.webp",
-      "link": "https://loja.spells.com.br/spells-a-marca"
-    },
-    {
-      "type": "page-title",
-      "title": "Um toque de Mágica na sua vida!",
-      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Os mais pedidos do mês"
     },
     {
       "page": 1,
