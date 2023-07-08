@@ -3,10 +3,19 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__niver3anos.webp",
-      "mobile_img": "/img/uploads/__mobile1.webp",
-      "link": "https://loja.spells.com.br/spells-a-marca"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__niver3anos.webp",
+          "mobile_img": "/img/uploads/__mobile1.webp",
+          "link": "https://loja.spells.com.br/spells-a-marca",
+          "alt": "12% de desconto use o cupom"
+        }
+      ]
     },
     {
       "type": "page-title",
