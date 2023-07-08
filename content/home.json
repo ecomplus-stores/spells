@@ -5,10 +5,10 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
-          "start": "",
+          "start": "2023-07-08T05:36:23.494Z",
           "end": "",
           "img": "/img/uploads/__niver3anos.webp",
           "mobile_img": "/img/uploads/__mobile1.webp",
