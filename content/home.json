@@ -4,34 +4,6 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "2023-07-08T05:36:23.494Z",
-          "end": "",
-          "img": "/img/uploads/__niver3anos.webp",
-          "mobile_img": "/img/uploads/__mobile1.webp",
-          "link": "https://loja.spells.com.br/spells-a-marca",
-          "alt": "12% de desconto use o cupom"
-        }
-      ]
-    },
-    {
-      "type": "page-title",
-      "title": "Um toque de Mágica na sua vida!",
-      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Os mais pedidos do mês"
-    },
-    {
-      "type": "banner-slider",
       "autoplay": 6000,
       "full_width": true,
       "slides": [
@@ -78,6 +50,19 @@
       ]
     },
     {
+      "type": "page-title",
+      "title": "Um toque de Mágica na sua vida!",
+      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Os mais pedidos do mês"
+    },
+    {
       "page": 1,
       "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
       "shuffle": false,
@@ -86,7 +71,7 @@
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
       "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -114,7 +99,7 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "type": "banners-grid",
