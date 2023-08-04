@@ -8,44 +8,12 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-04-29T21:47:32.339Z",
-          "end": "",
-          "img": "/img/uploads/_frete.webp",
-          "mobile_img": "/img/uploads/__fretem.webp",
-          "link": "https://loja.spells.com.br/spells-a-marca",
-          "alt": "Confira toda nossa linha de produtos de limpeza mágicos"
-        },
-        {
-          "start": "2023-06-13T20:08:39.769Z",
-          "end": "",
-          "img": "/img/uploads/__triolimpezaprofunda.webp",
-          "mobile_img": "/img/uploads/__triolpm.webp",
-          "link": "https://loja.spells.com.br/trio-limpeza-pesada",
-          "alt": "Trio Limpeza Pesada Spells - Aproveite o desconto!"
-        },
-        {
-          "start": "2023-06-13T20:08:46.240Z",
-          "end": "",
-          "img": "/img/uploads/__duocheirinholimpeza.webp",
-          "mobile_img": "/img/uploads/_duomobile.webp",
-          "link": "https://loja.spells.com.br/duo-cheirinho-de-limpeza-spells",
-          "alt": "Duo Cheirinho de Limpeza Spells - um toque de mágica para sua casa!"
-        },
-        {
-          "start": "2023-06-13T20:08:51.848Z",
-          "end": "",
-          "img": "/img/uploads/__desengordurante.webp",
-          "mobile_img": "/img/uploads/__desengordurantemobile.webp",
-          "link": "https://loja.spells.com.br/desengordurante-spells",
-          "alt": "Quem compara economiza com Spells"
-        },
-        {
           "start": "2023-06-13T20:08:24.016Z",
           "end": "",
-          "img": "/img/uploads/__triocozinha.webp",
-          "mobile_img": "/img/uploads/__triocozinham.webp",
-          "link": "https://loja.spells.com.br/trio-cozinha-spells",
-          "alt": "Trio para deixar sua cozinha brilhando com Spells, vem ver "
+          "img": "/img/uploads/__pais_agosto.webp",
+          "mobile_img": "/img/uploads/__pais_agosto-mobile.webp",
+          "link": "",
+          "alt": "Use o cupom : paipresente"
         }
       ]
     },
