@@ -10,10 +10,26 @@
         {
           "start": "2023-06-13T20:08:24.016Z",
           "end": "",
-          "img": "/img/uploads/__pais_agosto.webp",
-          "mobile_img": "/img/uploads/__pais_agosto-mobile.webp",
-          "link": "",
-          "alt": "Use o cupom : paipresente"
+          "img": "/img/uploads/_frete.webp",
+          "mobile_img": "/img/uploads/__fretem.webp",
+          "link": "https://loja.spells.com.br/spells-a-marca",
+          "alt": "Frete Gratis"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__desengordurante.webp",
+          "mobile_img": "/img/uploads/__desengordurantemobile.webp",
+          "link": "https://loja.spells.com.br/desengordurante-spells",
+          "alt": "desengordurante"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__duocheirinholimpeza.webp",
+          "mobile_img": "/img/uploads/_duomobile.webp",
+          "link": "https://loja.spells.com.br/duo-cheirinho-de-limpeza-spells",
+          "alt": "Duo Cheirinho de Limpeza"
         }
       ]
     },
