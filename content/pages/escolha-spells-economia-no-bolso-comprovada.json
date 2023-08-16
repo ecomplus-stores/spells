@@ -1,0 +1,21 @@
+{
+  "title": "Escolha Spells - Economia no Bolso Comprovada!",
+  "body": "![Quem compara economiza com Spells ](/img/uploads/__quemcomparaeconomizacomspells.webp \"https://loja.spells.com.br/spells-a-marca\")",
+  "sections": [
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "sales"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
