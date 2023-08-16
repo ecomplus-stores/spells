@@ -9,16 +9,16 @@
       "enabled": true
     },
     {
+      "type": "document-description",
+      "enabled": true
+    },
+    {
       "type": "page-title"
     },
     {
       "type": "collection-retail",
       "enabled": true,
       "sort": "news"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
