@@ -7,6 +7,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__perfumesexclusivos-casalimpaeperfumadacomspells.webp",
+      "link": "https://loja.spells.com.br/spells-a-marca",
+      "alt": "Casa Limpa e Perfumada "
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
