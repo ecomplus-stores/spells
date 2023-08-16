@@ -13,6 +13,11 @@
       "alt": "Casa Limpa e Perfumada "
     },
     {
+      "type": "page-title",
+      "title": "A magia da limpeza começa aqui.",
+      "description": "Spells - Produtos de Limpeza Mágicos"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
