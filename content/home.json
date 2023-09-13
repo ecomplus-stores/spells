@@ -55,7 +55,7 @@
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
       "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "sales"
+      "sort": "news"
     },
     {
       "type": "banners-grid",
@@ -83,7 +83,7 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
