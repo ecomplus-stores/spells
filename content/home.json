@@ -3,33 +3,41 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 6000,
-      "full_width": true,
-      "slides": [
+      "type": "responsive-banner",
+      "img": "/img/uploads/__presente.webp",
+      "mobile_img": "/img/uploads/__mobilep.webp",
+      "link": "https://loja.spells.com.br/brinde-frasco-reutilizavel",
+      "alt": "Brinde pra Você! Mês do Cliente"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__promo.webp",
+      "mobile_img": "/img/uploads/__mobilepromo.webp",
+      "link": "https://loja.spells.com.br/frascos",
+      "alt": "Presente para você #semanadocliente"
+    },
+    {
+      "page": 1,
+      "title": "Frascos de 250ml rendem 5 litros ",
+      "shuffle": false,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://loja.spells.com.br/frascos",
+      "limit": 12,
+      "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
+      "sort": "views"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2023-08-15T19:09:14.482Z",
-          "end": "",
-          "img": "/img/uploads/_frete.webp",
-          "mobile_img": "/img/uploads/__fretem.webp",
-          "link": "https://loja.spells.com.br/spells-a-marca",
-          "alt": "Frete Gratis"
+          "img": "/img/uploads/__rendimento.webp",
+          "link": "https://loja.spells.com.br/frascos"
         },
         {
-          "start": "2023-08-15T19:09:21.622Z",
-          "end": "",
-          "img": "/img/uploads/__desengordurante.webp",
-          "mobile_img": "/img/uploads/__desengordurantemobile.webp",
-          "link": "https://loja.spells.com.br/desengordurante-spells",
-          "alt": "desengordurante"
-        },
-        {
-          "start": "2023-08-15T19:09:27.320Z",
-          "end": "",
-          "img": "/img/uploads/__duocheirinholimpeza.webp",
-          "mobile_img": "/img/uploads/_duomobile.webp",
-          "link": "https://loja.spells.com.br/duo-cheirinho-de-limpeza-spells",
-          "alt": "Duo Cheirinho de Limpeza"
+          "img": "/img/uploads/__envio.webp",
+          "link": "https://loja.spells.com.br/pages/entrega",
+          "alt": "Frete grátis condições especiais para estado de SP"
         }
       ]
     },
@@ -47,9 +55,22 @@
       "title": "Os mais pedidos do mês"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/__sustentabilidade.webp"
+        },
+        {
+          "img": "/img/uploads/__economia.webp",
+          "link": "https://loja.spells.com.br/kits",
+          "alt": "Compre aqui"
+        }
+      ]
+    },
+    {
       "page": 1,
-      "title": "Kits Spells - Economize e leve o toque de magia para sua casa ",
-      "shuffle": false,
+      "title": "Kits Spells - Economia, Qualidade e Eficiência - Limpeza Poderosa",
+      "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
       "link": "https://loja.spells.com.br/kits",
@@ -58,46 +79,11 @@
       "sort": "news"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__1mais-economia.webp"
-        },
-        {
-          "img": "/img/uploads/_2perfumesexclusivos.webp"
-        },
-        {
-          "img": "/img/uploads/__3-ultraconcentrados.webp"
-        },
-        {
-          "img": "/img/uploads/__4-leveza-e-eficiencia.webp"
-        }
-      ]
-    },
-    {
-      "page": 1,
-      "title": "Frascos que rendem 5 litros- veja aqui ",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://loja.spells.com.br/frascos",
-      "limit": 12,
-      "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "sales"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__5sustevel.webp"
-        },
-        {
-          "img": "/img/uploads/__6petfriendly.webp"
-        },
-        {
-          "img": "/img/uploads/__7-entregarapidaesegura.webp"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado.webp",
+      "mobile_img": "/img/uploads/__mobile-atacado.webp",
+      "link": "https://loja.spells.com.br/pages/contato",
+      "alt": "Renda Extra - Conheça nosso Atacado e Revenda Produtos de Limpeza Spells"
     },
     {
       "type": "info-bar",
