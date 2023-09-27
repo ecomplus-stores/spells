@@ -4,13 +4,6 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__presente.webp",
-      "mobile_img": "/img/uploads/__mobilep.webp",
-      "link": "https://loja.spells.com.br/brinde-frasco-reutilizavel",
-      "alt": "Brinde pra Você! Mês do Cliente"
-    },
-    {
-      "type": "responsive-banner",
       "img": "/img/uploads/__promo.webp",
       "mobile_img": "/img/uploads/__mobilepromo.webp",
       "link": "https://loja.spells.com.br/frascos",
@@ -25,7 +18,7 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "views"
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -51,7 +44,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "sales",
+      "sort": "views",
       "title": "Os mais pedidos do mês"
     },
     {
