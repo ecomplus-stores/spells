@@ -3,11 +3,69 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__promo.webp",
-      "mobile_img": "/img/uploads/__mobilepromo.webp",
-      "link": "https://loja.spells.com.br/frascos",
-      "alt": "Presente para você #semanadocliente"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2023-10-01T01:54:23.288Z",
+          "end": "",
+          "img": "/img/uploads/__soutrosa.webp",
+          "mobile_img": "/img/uploads/__soutrosa-m.webp",
+          "link": "https://loja.spells.com.br/spells-a-marca",
+          "alt": "Compre online - Produtos de Limpeza Spells"
+        }
+      ]
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 7000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__freteout.webp",
+          "mobile_img": "/img/uploads/__freteout-m.webp",
+          "link": "https://loja.spells.com.br/pages/entrega",
+          "alt": "FRETE GRATIS PARA ESTADO DE SP -veja as regras"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__cupomout.webp",
+          "mobile_img": "/img/uploads/__cupomout-m.webp",
+          "link": "https://loja.spells.com.br/pages/entrega",
+          "alt": "Use o cupom:primeiracompra e ganhe 10% de desconto"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__atacado-out.webp",
+          "mobile_img": "/img/uploads/atacado-out-m.png",
+          "link": "https://wa.me/5511930270924",
+          "alt": "Atacado e Revenda"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pagout-d.png",
+          "mobile_img": "/img/uploads/__pagout.webp",
+          "alt": "Formas de Pagamento",
+          "link": "https://loja.spells.com.br/pages/faq"
+        }
+      ]
+    },
+    {
+      "page": 1,
+      "title": "Kits Spells - Economia, Qualidade e Eficiência - Limpeza Poderosa",
+      "shuffle": true,
+      "headless": false,
+      "type": "collection-shelf",
+      "link": "https://loja.spells.com.br/kits",
+      "limit": 12,
+      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
+      "sort": "news"
     },
     {
       "page": 1,
@@ -21,20 +79,6 @@
       "sort": "sales"
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__rendimento.webp",
-          "link": "https://loja.spells.com.br/frascos"
-        },
-        {
-          "img": "/img/uploads/__envio.webp",
-          "link": "https://loja.spells.com.br/pages/entrega",
-          "alt": "Frete grátis condições especiais para estado de SP"
-        }
-      ]
-    },
-    {
       "type": "page-title",
       "title": "Um toque de Mágica na sua vida!",
       "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
@@ -46,37 +90,6 @@
       "page": 1,
       "sort": "views",
       "title": "Os mais pedidos do mês"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/__sustentabilidade.webp"
-        },
-        {
-          "img": "/img/uploads/__economia.webp",
-          "link": "https://loja.spells.com.br/kits",
-          "alt": "Compre aqui"
-        }
-      ]
-    },
-    {
-      "page": 1,
-      "title": "Kits Spells - Economia, Qualidade e Eficiência - Limpeza Poderosa",
-      "shuffle": true,
-      "headless": false,
-      "type": "collection-shelf",
-      "link": "https://loja.spells.com.br/kits",
-      "limit": 12,
-      "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "sales"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/__atacado.webp",
-      "mobile_img": "/img/uploads/__mobile-atacado.webp",
-      "link": "https://loja.spells.com.br/pages/contato",
-      "alt": "Renda Extra - Conheça nosso Atacado e Revenda Produtos de Limpeza Spells"
     },
     {
       "type": "info-bar",
