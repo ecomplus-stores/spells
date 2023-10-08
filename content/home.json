@@ -102,6 +102,10 @@
       "title": "Frascos Reutilizáveis - veja mais"
     },
     {
+      "type": "custom-html",
+      "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.youtube.com/@spellsbrazil\" target=\"_blank\">Veja mais vídeos</a></h4>\n\n  <center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q_pbSFFewiQ?si=DNfaYB7pFcOvsOK3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>\n  </iframe><center>"
+    },
+    {
       "type": "info-bar",
       "enabled": true
     }
