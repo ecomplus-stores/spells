@@ -62,29 +62,6 @@
       "alt": "Atacado e Revenda Spells"
     },
     {
-      "type": "page-title",
-      "title": "Um toque de Mágica na sua vida!",
-      "description": "Rápido, prático, eficiente e sustentável. A maneira mais fácil de limpar a sua casa, economizar e deixar aquele perfume único!"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Experimente o Toque de Mágica da Spells"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "645298314bd2e929c1eadc97:collections:Reutilizável:/frasco-reutilizavel-spells",
-      "sort": "sales",
-      "link": "https://loja.spells.com.br/frasco-reutilizavel-spells",
-      "title": "Frascos Reutilizáveis - veja mais"
-    },
-    {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.youtube.com/@spellsbrazil\" target=\"_blank\">Veja mais vídeos</a></h4>\n\n  <center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q_pbSFFewiQ?si=DNfaYB7pFcOvsOK3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>\n  </iframe><center>"
     },
