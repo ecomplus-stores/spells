@@ -8,53 +8,29 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/__promoemdobro-spells-d.webp",
+          "mobile_img": "/img/uploads/__promoemdobro-spells.webp",
+          "link": "https://loja.spells.com.br/spells-a-marca",
+          "alt": "Promoção Especial"
+        },
+        {
           "start": "2023-10-01T01:54:23.288Z",
           "end": "",
-          "img": "/img/uploads/__soutrosa.webp",
-          "mobile_img": "/img/uploads/__soutrosa-m.webp",
+          "img": "/img/uploads/__rendimento-spells-geral-d.webp",
+          "mobile_img": "/img/uploads/__rendimento-spells-geral.webp",
           "link": "https://loja.spells.com.br/spells-a-marca",
           "alt": "Compre online - Produtos de Limpeza Spells"
         }
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 7000,
-      "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__freteout.webp",
-          "mobile_img": "/img/uploads/__freteout-m.webp",
-          "link": "https://loja.spells.com.br/pages/entrega",
-          "alt": "FRETE GRATIS PARA ESTADO DE SP -veja as regras"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__cupomout.webp",
-          "mobile_img": "/img/uploads/__cupomout-m.webp",
-          "link": "https://loja.spells.com.br/pages/entrega",
-          "alt": "Use o cupom:primeiracompra e ganhe 10% de desconto"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/__atacado-out.webp",
-          "mobile_img": "/img/uploads/atacado-out-m.png",
-          "link": "https://wa.me/5511930270924",
-          "alt": "Atacado e Revenda"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pagout-d.png",
-          "mobile_img": "/img/uploads/__pagout.webp",
-          "alt": "Formas de Pagamento",
-          "link": "https://loja.spells.com.br/pages/faq"
-        }
-      ]
+      "type": "responsive-banner",
+      "img": "/img/uploads/__fachadageral-d.webp",
+      "mobile_img": "/img/uploads/__fachadageral-m.webp",
+      "link": "https://loja.spells.com.br/pages/entrega",
+      "alt": "Produtos de Limpeza Spells - Envio para Todo Brasil"
     },
     {
       "page": 1,
@@ -65,7 +41,7 @@
       "link": "https://loja.spells.com.br/kits",
       "limit": 12,
       "collection_id": "644c09db4bd2e929c1e4f76c:categories:Kits:/kits",
-      "sort": "sales"
+      "sort": "views"
     },
     {
       "page": 1,
@@ -76,7 +52,14 @@
       "link": "https://loja.spells.com.br/frascos",
       "limit": 12,
       "collection_id": "644c09b24bd2e929c1e4f6f1:categories:Frascos:/frascos",
-      "sort": "views"
+      "sort": "sales"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/__atacado.webp",
+      "mobile_img": "/img/uploads/__atacado-m.webp",
+      "link": "https://loja.spells.com.br/pages/contato",
+      "alt": "Atacado e Revenda Spells"
     },
     {
       "type": "page-title",
