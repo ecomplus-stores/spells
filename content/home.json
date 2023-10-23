@@ -34,7 +34,7 @@
     },
     {
       "page": 1,
-      "title": "Kits Spells - Economia, Qualidade e Eficiência - Limpeza Poderosa",
+      "title": "Conheça Todos Nossos Kits - Limpeza Mágica e Poderosa",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
@@ -45,7 +45,7 @@
     },
     {
       "page": 1,
-      "title": "Frascos de 250ml rendem 5 litros ",
+      "title": "Economize: Frascos de 250ml rendem 5 litros ",
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
@@ -72,7 +72,7 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "title": "Os mais pedidos do mês"
+      "title": "Experimente o Toque de Mágica da Spells"
     },
     {
       "type": "collection-shelf",
