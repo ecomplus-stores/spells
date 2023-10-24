@@ -33,6 +33,40 @@
       "alt": "Produtos de Limpeza Spells - Envio para Todo Brasil"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/desengordurante-spells-h.png",
+          "link": "https://loja.spells.com.br/desengordurante-spells"
+        },
+        {
+          "img": "/img/uploads/aguadepassar-spells-p.png",
+          "link": "https://loja.spells.com.br/passa-roupas-spells"
+        },
+        {
+          "img": "/img/uploads/detergente-spells-h.png",
+          "link": "https://loja.spells.com.br/detergente-spells"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/limpapiso-spells-h.png",
+          "link": "https://loja.spells.com.br/limpa-piso-spells"
+        },
+        {
+          "img": "/img/uploads/multiuso-spells-h.png",
+          "link": "https://loja.spells.com.br/multiuso-spells"
+        },
+        {
+          "img": "/img/uploads/limpavidros-h.png",
+          "link": "https://loja.spells.com.br/limpa-vidros-spells"
+        }
+      ]
+    },
+    {
       "page": 1,
       "title": "Conheça Todos Nossos Kits - Limpeza Mágica e Poderosa",
       "shuffle": true,
