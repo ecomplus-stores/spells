@@ -27,8 +27,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__fachadageral-d.webp",
-      "mobile_img": "/img/uploads/__fachadageral-m.webp",
+      "img": "/img/uploads/fachadageral-d23.png",
+      "mobile_img": "/img/uploads/fachadageral-m23.png",
       "link": "https://loja.spells.com.br/pages/entrega",
       "alt": "Produtos de Limpeza Spells - Envio para Todo Brasil"
     },
@@ -56,14 +56,31 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/__atacado-d.webp",
-      "mobile_img": "/img/uploads/__atacado-novm.webp",
+      "img": "/img/uploads/atacado-23d.png",
+      "mobile_img": "/img/uploads/atacado-m23.png",
       "link": "https://loja.spells.com.br/pages/contato",
       "alt": "Atacado e Revenda Spells"
     },
     {
       "type": "custom-html",
       "html": "<h4 class=\"products-carousel__title\"><a href=\"https://www.youtube.com/@spellsbrazil\" target=\"_blank\">Veja mais vídeos</a></h4>\n\n  <center><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/q_pbSFFewiQ?si=DNfaYB7pFcOvsOK3\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen>\n  </iframe><center>"
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/_2perfumesexclusivos.webp"
+        },
+        {
+          "img": "/img/uploads/__3-ultraconcentrados.webp"
+        },
+        {
+          "img": "/img/uploads/__4-leveza-e-eficiencia.webp"
+        },
+        {
+          "img": "/img/uploads/__5sustevel.webp"
+        }
+      ]
     },
     {
       "type": "info-bar",
